@@ -1,3 +1,5 @@
+#Atur cara mengira komisen
+
 jumlah=0
 jualan=0
 komisen=0
